@@ -24,7 +24,7 @@ class  BubbleSortstring{
         x.sort(arr);
         x.display(arr);
         Bubblesort <String> x1 = new Bubblesort<>();
-        String arr1[]={"m","a","d","h","u"};
+        String arr1[]={"s","u","s","h","m","a"};
         x1.sort(arr1);
         x1.display(arr1);
         Bubblesort <Double> x3 = new Bubblesort<>();
